@@ -26,11 +26,14 @@ Playwright Test Files
 
 The focus was to experiment with modern Playwright AI agents and understand their responsibilities in the testing pipeline:
 
-### Planner Agent: Understanding requirements and generating structured test planning.
+- 🧠 **Planner Agent**  
+  Understanding requirements and generating structured test planning.
 
-### Generator Agent: Creating detailed test scenarios, test cases, and automation artifacts.
+- ⚙️ **Generator Agent**  
+  Creating detailed test scenarios, test cases, and automation artifacts.
 
-### Healer Agent: Understanding how automated tests can self-adapt and reduce maintenance overhead.
+- 🛠️ **Healer Agent**  
+  Understanding how automated tests can self-adapt and reduce maintenance overhead.
 
 ---
 
