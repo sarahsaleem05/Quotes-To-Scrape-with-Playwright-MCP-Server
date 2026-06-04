@@ -1,4 +1,4 @@
-### AI-Powered Testing Exploration using Playwright with MCPServer
+# AI-Powered Testing Exploration using Playwright with MCPServer
 
 ## Overview
 
